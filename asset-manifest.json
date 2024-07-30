@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.bf538fe7.css",
-    "main.js": "/static/js/main.bd04431d.js",
-    "static/media/bookstore.png": "/static/media/bookstore.1620b70382872566fb2d.png",
-    "static/media/weather.png": "/static/media/weather.ebce6ebcce2bcdda5391.png",
-    "static/media/Aditya-removebg-preview.png": "/static/media/Aditya-removebg-preview.23ca724188fbbe7e3169.png",
-    "static/media/shoes.png": "/static/media/shoes.0be828836df47f498e71.png",
-    "index.html": "/index.html",
-    "main.bf538fe7.css.map": "/static/css/main.bf538fe7.css.map",
-    "main.bd04431d.js.map": "/static/js/main.bd04431d.js.map"
+    "main.css": "/AdityaPortfolio/static/css/main.bf538fe7.css",
+    "main.js": "/AdityaPortfolio/static/js/main.b60f07b6.js",
+    "static/media/bookstore.png": "/AdityaPortfolio/static/media/bookstore.1620b70382872566fb2d.png",
+    "static/media/weather.png": "/AdityaPortfolio/static/media/weather.ebce6ebcce2bcdda5391.png",
+    "static/media/Aditya-removebg-preview.png": "/AdityaPortfolio/static/media/Aditya-removebg-preview.23ca724188fbbe7e3169.png",
+    "static/media/shoes.png": "/AdityaPortfolio/static/media/shoes.0be828836df47f498e71.png",
+    "index.html": "/AdityaPortfolio/index.html",
+    "main.bf538fe7.css.map": "/AdityaPortfolio/static/css/main.bf538fe7.css.map",
+    "main.b60f07b6.js.map": "/AdityaPortfolio/static/js/main.b60f07b6.js.map"
   },
   "entrypoints": [
     "static/css/main.bf538fe7.css",
-    "static/js/main.bd04431d.js"
+    "static/js/main.b60f07b6.js"
   ]
 }
