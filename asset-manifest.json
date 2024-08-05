@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/AdityaPortfolio/static/css/main.bf538fe7.css",
-    "main.js": "/AdityaPortfolio/static/js/main.2d9f5221.js",
+    "main.js": "/AdityaPortfolio/static/js/main.0509b468.js",
     "static/media/bookstore.png": "/AdityaPortfolio/static/media/bookstore.1620b70382872566fb2d.png",
     "static/media/weather.png": "/AdityaPortfolio/static/media/weather.ebce6ebcce2bcdda5391.png",
-    "static/media/Aditya-removebg-preview.png": "/AdityaPortfolio/static/media/Aditya-removebg-preview.23ca724188fbbe7e3169.png",
     "static/media/shoes.png": "/AdityaPortfolio/static/media/shoes.0be828836df47f498e71.png",
+    "static/media/Aditya-removebg-preview.png": "/AdityaPortfolio/static/media/Aditya-removebg-preview.b84153c5a1b350f0a4b1.png",
     "index.html": "/AdityaPortfolio/index.html",
     "main.bf538fe7.css.map": "/AdityaPortfolio/static/css/main.bf538fe7.css.map",
-    "main.2d9f5221.js.map": "/AdityaPortfolio/static/js/main.2d9f5221.js.map"
+    "main.0509b468.js.map": "/AdityaPortfolio/static/js/main.0509b468.js.map"
   },
   "entrypoints": [
     "static/css/main.bf538fe7.css",
-    "static/js/main.2d9f5221.js"
+    "static/js/main.0509b468.js"
   ]
 }
